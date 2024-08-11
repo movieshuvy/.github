@@ -1,4 +1,6 @@
-## 🙏 प्रणाम 🙏
+<h2 align="center">🙏 प्रणाम 🙏</h2>
+
+![Movie Shuvy Logo](https://www.movieshuvy.com/wp-content/uploads/2024/07/logo.png)
 
 <!--
 
